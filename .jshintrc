@@ -10,7 +10,7 @@
   // Define globals exposed by Node.js.
   "node": true,
   // Allow ES6.
-  "esversion": 6,
+  "esversion": 9,
   "globals": {
     "alert": false,
     "prompt": false,
